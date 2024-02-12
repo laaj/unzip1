@@ -33,7 +33,7 @@ class Messages:
 
     DELETE = "Delete"
 
-    RATE = "Rate me"
+    RATE = "Meganz bot"
 
     # start.py
 

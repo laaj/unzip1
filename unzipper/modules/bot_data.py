@@ -991,7 +991,7 @@ class Buttons:
         [
             [
                 InlineKeyboardButton(
-                    Messages.RATE, url="https://t.me/BotsArchive/2705"
+                    Messages.RATE, url="https://t.me/meganzdownloaderbot"
                 ),
                 InlineKeyboardButton(Messages.DONATE, callback_data="donatecallback"),
             ],
